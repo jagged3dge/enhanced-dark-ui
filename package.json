@@ -1,7 +1,7 @@
 {
   "name": "enhanced-dark-ui",
   "theme": "ui",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Default dark theme for interface components with enhanced UI and better usability.",
   "license": "MIT",
   "repository": "https://github.com/keeev/enhanced-dark-ui.git",
